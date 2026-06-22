@@ -32,7 +32,7 @@ function Navbar() {
       </div>
 
     <a
-  href="http://localhost:5173#projects"
+  href="https://sitecraft-studio-liart.vercel.app#projects"
   className="back-button"
 >
   ← Back To SiteCraft Studio
